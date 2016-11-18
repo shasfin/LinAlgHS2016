@@ -1,0 +1,6 @@
+﻿Gram Schmidt gut erklärt:
+https://www.youtube.com/watch?v=rHonltF77zI
+
+Töplitz Matrix, Konvolution und Polynommultiplikation (etwas theoretisch, wie man 'polProd.m' schreiben könnte):
+https://en.wikipedia.org/wiki/Toeplitz_matrix
+http://www.gaussianwaves.com/2014/02/polynomials-convolution-and-toeplitz-matrices-connecting-the-dots/
